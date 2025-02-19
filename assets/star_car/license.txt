@@ -1,0 +1,11 @@
+Model Information:
+* title:	Star Car
+* source:	https://sketchfab.com/3d-models/star-car-84d27b5b9e364cbba0c3d3a62a242525
+* author:	Mattdude (https://sketchfab.com/Mattdude)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Star Car" (https://sketchfab.com/3d-models/star-car-84d27b5b9e364cbba0c3d3a62a242525) by Mattdude (https://sketchfab.com/Mattdude) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
